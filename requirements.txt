@@ -1,0 +1,8 @@
+jieba==0.42.1
+joblib==1.1.0
+lxml==4.8.0
+numpy==1.16.6
+Pillow==9.0.1
+py2neo==2021.2.3
+requests==2.27.1
+scikit_learn==1.0.2
